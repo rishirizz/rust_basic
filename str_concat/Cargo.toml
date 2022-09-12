@@ -1,0 +1,8 @@
+[package]
+
+name="str-concat"
+version="0.1.0"
+authors=["Arijeet Chakraborty"]
+edition="2018"
+
+[dependencies]
